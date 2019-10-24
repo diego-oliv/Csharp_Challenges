@@ -1,0 +1,11 @@
+C:\Users\35883602800\Desktop\Desafios Programação\desafio7\obj\Debug\netcoreapp2.2\Desafio7.csprojAssemblyReference.cache
+C:\Users\35883602800\Desktop\Desafios Programação\desafio7\obj\Debug\netcoreapp2.2\Desafio7.csproj.CoreCompileInputs.cache
+C:\Users\35883602800\Desktop\Desafios Programação\desafio7\obj\Debug\netcoreapp2.2\Desafio7.AssemblyInfoInputs.cache
+C:\Users\35883602800\Desktop\Desafios Programação\desafio7\obj\Debug\netcoreapp2.2\Desafio7.AssemblyInfo.cs
+C:\Users\35883602800\Desktop\Desafios Programação\desafio7\bin\Debug\netcoreapp2.2\Desafio7.deps.json
+C:\Users\35883602800\Desktop\Desafios Programação\desafio7\bin\Debug\netcoreapp2.2\Desafio7.runtimeconfig.json
+C:\Users\35883602800\Desktop\Desafios Programação\desafio7\bin\Debug\netcoreapp2.2\Desafio7.runtimeconfig.dev.json
+C:\Users\35883602800\Desktop\Desafios Programação\desafio7\bin\Debug\netcoreapp2.2\Desafio7.dll
+C:\Users\35883602800\Desktop\Desafios Programação\desafio7\bin\Debug\netcoreapp2.2\Desafio7.pdb
+C:\Users\35883602800\Desktop\Desafios Programação\desafio7\obj\Debug\netcoreapp2.2\Desafio7.dll
+C:\Users\35883602800\Desktop\Desafios Programação\desafio7\obj\Debug\netcoreapp2.2\Desafio7.pdb
