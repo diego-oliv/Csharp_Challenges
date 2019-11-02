@@ -1,0 +1,11 @@
+C:\Users\35883602800\Desktop\desfazer-laCaca\Desafio14\bin\Debug\netcoreapp2.2\Desafio14.deps.json
+C:\Users\35883602800\Desktop\desfazer-laCaca\Desafio14\bin\Debug\netcoreapp2.2\Desafio14.runtimeconfig.json
+C:\Users\35883602800\Desktop\desfazer-laCaca\Desafio14\bin\Debug\netcoreapp2.2\Desafio14.runtimeconfig.dev.json
+C:\Users\35883602800\Desktop\desfazer-laCaca\Desafio14\bin\Debug\netcoreapp2.2\Desafio14.dll
+C:\Users\35883602800\Desktop\desfazer-laCaca\Desafio14\bin\Debug\netcoreapp2.2\Desafio14.pdb
+C:\Users\35883602800\Desktop\desfazer-laCaca\Desafio14\obj\Debug\netcoreapp2.2\Desafio14.csprojAssemblyReference.cache
+C:\Users\35883602800\Desktop\desfazer-laCaca\Desafio14\obj\Debug\netcoreapp2.2\Desafio14.csproj.CoreCompileInputs.cache
+C:\Users\35883602800\Desktop\desfazer-laCaca\Desafio14\obj\Debug\netcoreapp2.2\Desafio14.AssemblyInfoInputs.cache
+C:\Users\35883602800\Desktop\desfazer-laCaca\Desafio14\obj\Debug\netcoreapp2.2\Desafio14.AssemblyInfo.cs
+C:\Users\35883602800\Desktop\desfazer-laCaca\Desafio14\obj\Debug\netcoreapp2.2\Desafio14.dll
+C:\Users\35883602800\Desktop\desfazer-laCaca\Desafio14\obj\Debug\netcoreapp2.2\Desafio14.pdb

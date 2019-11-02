@@ -1,0 +1,11 @@
+C:\Users\35883602800\Desktop\desfazer-laCaca\ZooLógico\obj\Debug\netcoreapp2.2\ZooLógico.csprojAssemblyReference.cache
+C:\Users\35883602800\Desktop\desfazer-laCaca\ZooLógico\obj\Debug\netcoreapp2.2\ZooLógico.csproj.CoreCompileInputs.cache
+C:\Users\35883602800\Desktop\desfazer-laCaca\ZooLógico\obj\Debug\netcoreapp2.2\ZooLógico.AssemblyInfoInputs.cache
+C:\Users\35883602800\Desktop\desfazer-laCaca\ZooLógico\obj\Debug\netcoreapp2.2\ZooLógico.AssemblyInfo.cs
+C:\Users\35883602800\Desktop\desfazer-laCaca\ZooLógico\bin\Debug\netcoreapp2.2\ZooLógico.deps.json
+C:\Users\35883602800\Desktop\desfazer-laCaca\ZooLógico\bin\Debug\netcoreapp2.2\ZooLógico.runtimeconfig.json
+C:\Users\35883602800\Desktop\desfazer-laCaca\ZooLógico\bin\Debug\netcoreapp2.2\ZooLógico.runtimeconfig.dev.json
+C:\Users\35883602800\Desktop\desfazer-laCaca\ZooLógico\bin\Debug\netcoreapp2.2\ZooLógico.dll
+C:\Users\35883602800\Desktop\desfazer-laCaca\ZooLógico\bin\Debug\netcoreapp2.2\ZooLógico.pdb
+C:\Users\35883602800\Desktop\desfazer-laCaca\ZooLógico\obj\Debug\netcoreapp2.2\ZooLógico.dll
+C:\Users\35883602800\Desktop\desfazer-laCaca\ZooLógico\obj\Debug\netcoreapp2.2\ZooLógico.pdb
