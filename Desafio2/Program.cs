@@ -8,7 +8,7 @@ namespace Desafio2
         {
             float c;
             float f;
-            System.Console.WriteLine("Transformação de centígrados em Fahreinheit");
+            System.Console.WriteLine("Transformação de graus centígrados em  graus Fahreinheit");
             System.Console.Write("Digite a temperatura em centígrados: ");
             c = float.Parse(Console.ReadLine());
             f = ((9*c + 160) / 5);
